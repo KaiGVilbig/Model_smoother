@@ -1,0 +1,10 @@
+*~
+*.o
+*.d
+*.ppm
+*.png
+*.obj
+hide
+shade
+.vscode
+Eigen
